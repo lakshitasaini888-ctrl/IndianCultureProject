@@ -24,17 +24,6 @@ JavaScript
 
 Git & GitHub
 
-📸 Preview
-
-(Add a screenshot of your website here later — Insert image button in README editor)
-
-💡 Future Improvements
-
-Add animations for cultural sections
-
-Create separate pages for each state
-
-Add dark/light theme
 
 👩‍💻 Author
 
